@@ -1,0 +1,82 @@
+id,strategy,country,team,point,time,link,goal in first time,team that scored,Both scored,result in first time,result in all time
+0,2,АНГЛИЯ: Премьер-лига,Борнмут - Вулверхэмптон,"{'БОРНМУТ': 3, 'ВУЛВЕРХЭМПТОН': 5}",23.02.2019 17:00,https://www.myscore.com.ua/match/I5EFkzMl/#match-summary
+1,2,АНГЛИЯ: Премьер-лига,Лестер - Кристал Пэлас,"{'ЛЕСТЕР': 2, 'КРИСТАЛ ПЭЛАС': 6}",23.02.2019 19:30,https://www.myscore.com.ua/match/6RfABHr8/#match-summary
+2,2,ГЕРМАНИЯ: Бундеслига,Боруссия М - Вольфсбург,"{'БОРУССИЯ М': 4, 'ВОЛЬФСБУРГ': 7}",23.02.2019 16:30,https://www.myscore.com.ua/match/8p6IG5TT/#match-summary
+3,2,ФРАНЦИЯ: Первая лига,ПСЖ - Ним,"{'ПСЖ': 6, 'НИМ': 4}",23.02.2019 18:00,https://www.myscore.com.ua/match/K4TagIO4/#match-summary
+4,2,АВСТРАЛИЯ: НПЛ Виктория,Грин Гулли - Гейдельберг Юнайтед,"{'ГРИН ГУЛЛИ': 3, 'ГЕЙДЕЛЬБЕРГ ЮНАЙТЕД': 5}",23.02.2019 06:00,https://www.myscore.com.ua/match/fqmlsAg1/#match-summary
+5,2,АЗЕРБАЙДЖАН: Премьер-лига,Sabah Baku - Карабах,"{'SABAH BAKU': 3, 'КАРАБАХ': 6}",23.02.2019 14:30,https://www.myscore.com.ua/match/MLRXmwx9/#match-summary
+6,2,АНГЛИЯ: Чемпионшип,Брентфорд - Халл,"{'БРЕНТФОРД': 7, 'ХАЛЛ': 7}",23.02.2019 17:00,https://www.myscore.com.ua/match/WrgNNzee/#match-summary
+7,2,АНГЛИЯ: Чемпионшип,Лидс - Болтон,"{'ЛИДС': 4, 'БОЛТОН': 1}",23.02.2019 17:00,https://www.myscore.com.ua/match/Q5hRMfA1/#match-summary
+8,2,АНГЛИЯ: Чемпионшип,Мидлсбро - КПР,"{'МИДЛСБРО': 3, 'КПР': 4}",23.02.2019 17:00,https://www.myscore.com.ua/match/xtdVLEP7/#match-summary
+9,2,АНГЛИЯ: Чемпионшип,Норвич - Бристоль Сити,"{'НОРВИЧ': 6, 'БРИСТОЛЬ СИТИ': 2}",23.02.2019 17:00,https://www.myscore.com.ua/match/IyZHqIHE/#match-summary
+10,2,АНГЛИЯ: Первая лига,Сканторп Юнайтед - Донкастер,"{'СКАНТОРП ЮНАЙТЕД': 4, 'ДОНКАСТЕР': 5}",23.02.2019 15:00,https://www.myscore.com.ua/match/f9jJLOAA/#match-summary
+11,2,АНГЛИЯ: Национальная лига,Борхэм Вуд - Солихалл,"{'БОРХЭМ ВУД': 2, 'СОЛИХАЛЛ': 5}",23.02.2019 17:00,https://www.myscore.com.ua/match/0xEMhSq8/#match-summary
+12,2,АНГЛИЯ: Национальная лига Север,Блит - Киддерминстер,"{'БЛИТ': 6, 'КИДДЕРМИНСТЕР': 5}",23.02.2019 17:00,https://www.myscore.com.ua/match/4xB7yc7P/#match-summary
+13,2,АНГЛИЯ: Национальная лига Север,Йорк Сити - Нюнеатон,"{'ЙОРК СИТИ': 6, 'НЮНЕАТОН': 5}",23.02.2019 17:00,https://www.myscore.com.ua/match/xjo7PjEU/#match-summary
+14,2,АНГЛИЯ: Национальная лига Север,Курзон Аштон - Алтринчем,"{'КУРЗОН АШТОН': 2, 'АЛТРИНЧЕМ': 4}",23.02.2019 17:00,https://www.myscore.com.ua/match/f7knUEaa/#match-summary
+15,2,АНГЛИЯ: NPL Premier Division,Бакстон - Хэднесфорд,"{'БАКСТОН': 8, 'ХЭДНЕСФОРД': 5}",23.02.2019 17:00,https://www.myscore.com.ua/match/WCOoLuD0/#match-summary
+16,2,АНГЛИЯ: NPL Premier Division,Бамбер Бридж - Саут Шилдс,"{'БАМБЕР БРИДЖ': 4, 'САУТ ШИЛДС': 8}",23.02.2019 17:00,https://www.myscore.com.ua/match/baQwN1rl/#match-summary
+17,2,АНГЛИЯ: NPL Premier Division,Бэсфорд - Стаффорд Рейнджерз,"{'БЭСФОРД': 7, 'СТАФФОРД РЕЙНДЖЕРЗ': 9}",23.02.2019 17:00,https://www.myscore.com.ua/match/xjPsMLcf/#match-summary
+18,2,АНГЛИЯ: NPL Premier Division,Марин - Уоркингтон,"{'МАРИН': 5, 'УОРКИНГТОН': 3}",23.02.2019 17:00,https://www.myscore.com.ua/match/Yy5tsNZJ/#match-summary
+19,2,АНГЛИЯ: NPL Premier Division,Сталибридж - Ланкастер,"{'СТАЛИБРИДЖ': 4, 'ЛАНКАСТЕР': 5}",23.02.2019 17:00,https://www.myscore.com.ua/match/WCpHzLCm/#match-summary
+20,2,АНГЛИЯ: NPL Premier Division,Фарсли - Уиттон,"{'ФАРСЛИ': 9, 'УИТТОН': 4}",23.02.2019 17:00,https://www.myscore.com.ua/match/pGSkKaS6/#match-summary
+21,2,АНГЛИЯ: NPL Premier Division,Хайд - Уитби,"{'ХАЙД': 5, 'УИТБИ': 7}",23.02.2019 17:00,https://www.myscore.com.ua/match/6VGbIwcJ/#match-summary
+22,2,АНГЛИЯ: Southern League South Division,Веймут - Мертир Таун,"{'ВЕЙМУТ': 7, 'МЕРТИР ТАУН': 4}",23.02.2019 17:00,https://www.myscore.com.ua/match/6mnvYN67/#match-summary
+23,2,АНГЛИЯ: Southern League South Division,Салисбери Сити - Басингстоук,"{'САЛИСБЕРИ СИТИ': 6, 'БАСИНГСТОУК': 4}",23.02.2019 17:00,https://www.myscore.com.ua/match/0hSjzvEm/#match-summary
+24,2,АНГЛИЯ: Southern League South Division,Уимборн - Уолтон Кэйжалс,"{'УИМБОРН': 5, 'УОЛТОН КЭЙЖАЛС': 7}",23.02.2019 17:00,https://www.myscore.com.ua/match/SKo0WeDC/#match-summary
+25,2,АНГЛИЯ: Southern League South Division,Хартли Уинтни - Тивертон,"{'ХАРТЛИ УИНТНИ': 7, 'ТИВЕРТОН': 5}",23.02.2019 17:00,https://www.myscore.com.ua/match/nonGttyK/#match-summary
+26,2,АНГЛИЯ: Isthmian League Premier Division,Летерхед - Хорнчерч,"{'ЛЕТЕРХЕД': 7, 'ХОРНЧЕРЧ': 4}",23.02.2019 17:00,https://www.myscore.com.ua/match/tUAcd5gq/#match-summary
+27,2,АНГЛИЯ: Isthmian League Premier Division,Уингейт энд Финчли - Уэртинг,"{'УИНГЕЙТ ЭНД ФИНЧЛИ': 5, 'УЭРТИНГ': 6}",23.02.2019 17:00,https://www.myscore.com.ua/match/Gn3Ag3w2/#match-summary
+28,2,АНГЛИЯ: Трофей ФА,Солихалл - Телфорд,"{'СОЛИХАЛЛ': 5, 'ТЕЛФОРД': 7}",23.02.2019 17:00,https://www.myscore.com.ua/match/hYibufB8/#match-summary
+29,2,АНГЛИЯ: Трофей ФА,Стокпорт Каунти - Мэйдстоун,"{'СТОКПОРТ КАУНТИ': 10, 'МЭЙДСТОУН': 5}",23.02.2019 17:00,https://www.myscore.com.ua/match/SvbwAvT8/#match-summary
+30,2,БЕЛЬГИЯ: Высшая лига,Серкль Брюгге - Остенде,"{'СЕРКЛЬ БРЮГГЕ': 4, 'ОСТЕНДЕ': 6}",23.02.2019 21:00,https://www.myscore.com.ua/match/nXUJKPcH/#match-summary
+31,2,БОЛГАРИЯ: Первая лига,Ботев Враца - Славия София,"{'БОТЕВ ВРАЦА': 2, 'СЛАВИЯ СОФИЯ': 3}",23.02.2019 12:30,https://www.myscore.com.ua/match/ju2oysTl/#match-summary
+32,2,ВЕНГРИЯ: Высшая лига,Гонвед - МТК Будапешт,"{'ГОНВЕД': 5, 'МТК БУДАПЕШТ': 5}",23.02.2019 20:30,https://www.myscore.com.ua/match/dEb1Zma3/#match-summary
+33,2,ВЕНЕСУЭЛА: Высший дивизион - Апертура,Метрополитанос - Португеза,"{'МЕТРОПОЛИТАНОС': 5, 'ПОРТУГЕЗА': 3}",23.02.2019 22:00,https://www.myscore.com.ua/match/rsXOlyrD/#match-summary
+34,2,ВЬЕТНАМ: Лига V,Сонглам Нгеан - Куангнам,"{'СОНГЛАМ НГЕАН': 7, 'КУАНГНАМ': 5}",23.02.2019 11:30,https://www.myscore.com.ua/match/Mi4vH1hO/#match-summary
+35,2,ВЬЕТНАМ: Лига V,Ha Noi FC - Куангнинь,"{'HA NOI FC': 3, 'КУАНГНИНЬ': 6}",23.02.2019 14:00,https://www.myscore.com.ua/match/Eut5XMx5/#match-summary
+36,2,ГЕРМАНИЯ: Вторая Бундеслига,Санкт-Паули - Ингольштадт,"{'САНКТ-ПАУЛИ': 9, 'ИНГОЛЬШТАДТ': 7}",23.02.2019 14:00,https://www.myscore.com.ua/match/pfcSJKXG/#match-summary
+37,2,ГЕРМАНИЯ: Западная региональная лига,ТВ Херкенрат - Липпштадт,"{'ТВ ХЕРКЕНРАТ': 4, 'ЛИППШТАДТ': 2}",23.02.2019 15:00,https://www.myscore.com.ua/match/rNbCYjp9/#match-summary
+38,2,ГЕРМАНИЯ: Западная региональная лига,Kaan-Marienborn - Straelen,"{'KAAN-MARIENBORN': 6, 'STRAELEN': 3}",23.02.2019 15:00,https://www.myscore.com.ua/match/WYiRAmh2/#match-summary
+39,2,ГЕРМАНИЯ: Юго-западная региональная лига,Балинген - Гессен Драйайх,"{'БАЛИНГЕН': 7, 'ГЕССЕН ДРАЙАЙХ': 5}",23.02.2019 15:00,https://www.myscore.com.ua/match/h40mWcEA/#match-summary
+40,2,ГЕРМАНИЯ: Юго-западная региональная лига,Оффенбах - Ульм,"{'ОФФЕНБАХ': 6, 'УЛЬМ': 5}",23.02.2019 15:00,https://www.myscore.com.ua/match/ChDLDkbq/#match-summary
+41,2,ГОНКОНГ: Премьер-лига,Пегасус - Китчи,"{'ПЕГАСУС': 6, 'КИТЧИ': 6}",23.02.2019 11:30,https://www.myscore.com.ua/match/bFOvwHDk/#match-summary
+42,2,ГРЕЦИЯ: Суперлига,Астерас - Атромитос,"{'АСТЕРАС': 3, 'АТРОМИТОС': 6}",23.02.2019 17:15,https://www.myscore.com.ua/match/nBD1q1sm/#match-summary
+43,2,ДАНИЯ: Суперлига,Вайле - Норшелланн,"{'ВАЙЛЕ': 6, 'НОРШЕЛЛАНН': 4}",23.02.2019 17:00,https://www.myscore.com.ua/match/6XaQp5g7/#match-summary
+44,2,ИСЛАНДИЯ: Кубок лиги,Брейдаблик - Викингур Рейкьявик,"{'БРЕЙДАБЛИК': 9, 'ВИКИНГУР РЕЙКЬЯВИК': 4}",23.02.2019 13:00,https://www.myscore.com.ua/match/CxyeRBYS/#match-summary
+45,2,ИСЛАНДИЯ: Кубок лиги,Вестманнаэйяр - Викингур Оулафсвик,"{'ВЕСТМАННАЭЙЯР': 4, 'ВИКИНГУР ОУЛАФСВИК': 7}",23.02.2019 16:00,https://www.myscore.com.ua/match/6wRuivia/#match-summary
+46,2,ИСЛАНДИЯ: Кубок лиги,Гриндавик - Магни,"{'ГРИНДАВИК': 5, 'МАГНИ': 5}",23.02.2019 18:00,https://www.myscore.com.ua/match/MD9Uck8E/#match-summary
+47,2,ИТАЛИЯ: Серия В,Карпи - Специя,"{'КАРПИ': 6, 'СПЕЦИЯ': 7}",23.02.2019 16:00,https://www.myscore.com.ua/match/C6dgNvOh/#match-summary
+48,2,КИПР: Первый дивизион,Пафос - Докса,"{'ПАФОС': 6, 'ДОКСА': 4}",23.02.2019 17:00,https://www.myscore.com.ua/match/SEMSj6i8/#match-summary
+49,2,НИДЕРЛАНДЫ: Высшая лига,Утрехт - Эксельсиор,"{'УТРЕХТ': 3, 'ЭКСЕЛЬСИОР': 2}",23.02.2019 19:30,https://www.myscore.com.ua/match/Mm6O5DfI/#match-summary
+50,2,НИДЕРЛАНДЫ: Второй дивизион,Барендрехт - Козаккен Бойс,"{'БАРЕНДРЕХТ': 1, 'КОЗАККЕН БОЙС': 3}",23.02.2019 15:30,https://www.myscore.com.ua/match/INoslw9s/#match-summary
+51,2,НИДЕРЛАНДЫ: Второй дивизион,Эйсселмервогелс - Jong Almere City,"{'ЭЙССЕЛМЕРВОГЕЛС': 7, 'JONG ALMERE CITY': 4}",23.02.2019 16:00,https://www.myscore.com.ua/match/CpoomcOm/#match-summary
+52,2,НИДЕРЛАНДЫ: Второй дивизион,Ринсбургс Бойс - Спакенбург,"{'РИНСБУРГС БОЙС': 4, 'СПАКЕНБУРГ': 5}",23.02.2019 16:30,https://www.myscore.com.ua/match/OKlknHwf/#match-summary
+53,2,ПАРАГВАЙ: Первый дивизион - Апертура,Серро Портеньо - Насьональ Асунсьон,"{'СЕРРО ПОРТЕНЬО': 7, 'НАСЬОНАЛЬ АСУНСЬОН': 5}",23.02.2019 01:45,https://www.myscore.com.ua/match/byAerNyf/#match-summary
+54,2,ПОРТУГАЛИЯ: Примейра-лига,Портимоненси - Авеш,"{'ПОРТИМОНЕНСИ': 4, 'АВЕШ': 3}",23.02.2019 20:00,https://www.myscore.com.ua/match/vHWEb72h/#match-summary
+55,2,ПОРТУГАЛИЯ: Сегунда,Пенафиел - Ковилья,"{'ПЕНАФИЕЛ': 4, 'КОВИЛЬЯ': 6}",23.02.2019 19:00,https://www.myscore.com.ua/match/6Bjylfrc/#match-summary
+56,2,РУМЫНИЯ: Высшая лига,Астра - Херманнштадт,"{'АСТРА': 5, 'ХЕРМАННШТАДТ': 5}",23.02.2019 17:00,https://www.myscore.com.ua/match/zPiAJmSK/#match-summary
+57,2,САУДОВСКАЯ АРАВИЯ: Премьер-лига,Аль-Раед - Аль-Файзали Харма,"{'АЛЬ-РАЕД': 4, 'АЛЬ-ФАЙЗАЛИ ХАРМА': 5}",23.02.2019 14:55,https://www.myscore.com.ua/match/GWf2DGsE/#match-summary
+58,2,СЕВЕРНАЯ ИРЛАНДИЯ: Премьер-лига,Ардс - Ньюри Сити,"{'АРДС': 4, 'НЬЮРИ СИТИ': 3}",23.02.2019 17:00,https://www.myscore.com.ua/match/b5Dq9SUI/#match-summary
+59,2,СЕВЕРНАЯ ИРЛАНДИЯ: Премьер-лига,Инститьют - Данганнон,"{'ИНСТИТЬЮТ': 4, 'ДАНГАННОН': 6}",23.02.2019 17:00,https://www.myscore.com.ua/match/WhrbSkVt/#match-summary
+60,2,СЕВЕРНАЯ ИРЛАНДИЯ: Премьер-лига,Колрейн - Гленторан,"{'КОЛРЕЙН': 8, 'ГЛЕНТОРАН': 5}",23.02.2019 17:00,https://www.myscore.com.ua/match/nL6RXB7J/#match-summary
+61,2,СЕВЕРНАЯ ИРЛАНДИЯ: Премьер-лига,Линфилд - Баллимина,"{'ЛИНФИЛД': 6, 'БАЛЛИМИНА': 8}",23.02.2019 17:00,https://www.myscore.com.ua/match/rTo2R9pm/#match-summary
+62,2,СЕВЕРНАЯ ИРЛАНДИЯ: Премьер-лига,Уорренпоинт - Клифтонвилл,"{'УОРРЕНПОИНТ': 7, 'КЛИФТОНВИЛЛ': 5}",23.02.2019 17:00,https://www.myscore.com.ua/match/xjo6QTag/#match-summary
+63,2,СЕВЕРНАЯ ИРЛАНДИЯ: Чемпионшип - Повышение - группа,Баллинамаллард - Портадаун,"{'БАЛЛИНАМАЛЛАРД': 6, 'ПОРТАДАУН': 5}",23.02.2019 17:00,https://www.myscore.com.ua/match/CApfmHDe/#match-summary
+64,2,СЕВЕРНАЯ ИРЛАНДИЯ: Чемпионшип - Повышение - группа,Харланд энд Вульф - Ларн,"{'ХАРЛАНД ЭНД ВУЛЬФ': 4, 'ЛАРН': 6}",23.02.2019 17:00,https://www.myscore.com.ua/match/h6NtBK52/#match-summary
+65,2,СЕВЕРНАЯ ИРЛАНДИЯ: Чемпионшип - Группа вылета,Балликлэр - Кнокбреда,"{'БАЛЛИКЛЭР': 5, 'КНОКБРЕДА': 4}",23.02.2019 17:00,https://www.myscore.com.ua/match/8zkeCOnO/#match-summary
+66,2,СЕВЕРНАЯ ИРЛАНДИЯ: Чемпионшип - Группа вылета,Дергвью - ПСНИ,"{'ДЕРГВЬЮ': 7, 'ПСНИ': 5}",23.02.2019 17:00,https://www.myscore.com.ua/match/nRmaBr2U/#match-summary
+67,2,СЕВЕРНАЯ ИРЛАНДИЯ: Чемпионшип - Группа вылета,Лимавади - Лофголл,"{'ЛИМАВАДИ': 3, 'ЛОФГОЛЛ': 6}",23.02.2019 17:00,https://www.myscore.com.ua/match/OnP4WRXu/#match-summary
+68,2,СИНГАПУР: Суперкубок,Альбирекс Ниигата - Хоум Юнайтед,"{'АЛЬБИРЕКС НИИГАТА': 6, 'ХОУМ ЮНАЙТЕД': 6}",23.02.2019 12:00,https://www.myscore.com.ua/match/E32fv76T/#match-summary
+69,2,СЛОВАКИЯ: Первая лига,Подбрезова - Ружомберок,"{'ПОДБРЕЗОВА': 4, 'РУЖОМБЕРОК': 6}",23.02.2019 15:00,https://www.myscore.com.ua/match/OG6sV5iF/#match-summary
+70,2,СЛОВАКИЯ: Первая лига,Середь - Слован Братислава,"{'СЕРЕДЬ': 4, 'СЛОВАН БРАТИСЛАВА': 8}",23.02.2019 15:00,https://www.myscore.com.ua/match/U1wrRRI8/#match-summary
+71,2,СЛОВАКИЯ: Первая лига,Михайловце - Нитра,"{'МИХАЙЛОВЦЕ': 8, 'НИТРА': 6}",23.02.2019 17:00,https://www.myscore.com.ua/match/275oUP6L/#match-summary
+72,2,ШВЕЙЦАРИЯ: Суперлига,Ксамакс - Базель,"{'КСАМАКС': 6, 'БАЗЕЛЬ': 6}",23.02.2019 20:00,https://www.myscore.com.ua/match/zgk5Z7js/#match-summary
+73,2,ШОТЛАНДИЯ: Чемпионшип,Куин оф зе Саут - Аллоа,"{'КУИН ОФ ЗЕ САУТ': 4, 'АЛЛОА': 4}",23.02.2019 17:00,https://www.myscore.com.ua/match/AgzexcwB/#match-summary
+74,2,ШОТЛАНДИЯ: Чемпионшип,Партик - Росс Каунти,"{'ПАРТИК': 6, 'РОСС КАУНТИ': 5}",23.02.2019 17:00,https://www.myscore.com.ua/match/bJWjwwO4/#match-summary
+75,2,ШОТЛАНДИЯ: Первая лига,Арброт - Эйрдрионианс,"{'АРБРОТ': 6, 'ЭЙРДРИОНИАНС': 4}",23.02.2019 17:00,https://www.myscore.com.ua/match/KItU2WLu/#match-summary
+76,2,ШОТЛАНДИЯ: Первая лига,Брешин - Странрар,"{'БРЕШИН': 3, 'СТРАНРАР': 3}",23.02.2019 17:00,https://www.myscore.com.ua/match/YLpY1jyn/#match-summary
+77,2,ШОТЛАНДИЯ: Первая лига,Райт Роверс - Монтроз,"{'РАЙТ РОВЕРС': 5, 'МОНТРОЗ': 5}",23.02.2019 17:00,https://www.myscore.com.ua/match/21YpalL4/#match-summary
+id,strategy,country,team,point,time,link,goal in first time,team that scored,Both scored,result in first time,result in all time
+0,2,ШОТЛАНДИЯ: Первая лига,Арброт - Эйрдрионианс,"{'АРБРОТ': 6, 'ЭЙРДРИОНИАНС': 4}",23.02.2019 17:00,https://www.myscore.com.ua/match/KItU2WLu/#match-summary
+1,2,ШОТЛАНДИЯ: Первая лига,Брешин - Странрар,"{'БРЕШИН': 3, 'СТРАНРАР': 3}",23.02.2019 17:00,https://www.myscore.com.ua/match/YLpY1jyn/#match-summary

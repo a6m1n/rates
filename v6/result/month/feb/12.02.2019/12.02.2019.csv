@@ -1,0 +1,5 @@
+id,strategy,country,team,point,time,link,goal in first time,team that scored,Both scored,result in first time,result in all time
+0,2,ЕВРОПА: Лига чемпионов - Плей-офф,Манчестер Юнайтед - ПСЖ,"{'МАНЧЕСТЕР ЮНАЙТЕД': 8, 'ПСЖ': 6}",12.02.2019 22:00,https://www.myscore.com.ua/match/fJmhNh17/#match-summary
+1,2,АНГЛИЯ: Первая лига,Донкастер - Саутенд Юнайтед,"{'ДОНКАСТЕР': 5, 'САУТЕНД ЮНАЙТЕД': 4}",12.02.2019 21:45,https://www.myscore.com.ua/match/Ghb6Do00/#match-summary
+2,2,АНГЛИЯ: Вторая лига,Крю - Карлайл Юнайтед,"{'КРЮ': 6, 'КАРЛАЙЛ ЮНАЙТЕД': 6}",12.02.2019 21:45,https://www.myscore.com.ua/match/df2r5SGe/#match-summary
+3,2,ГЕРМАНИЯ: Третья лига,Цвикау - Карлсруэ,"{'ЦВИКАУ': 5, 'КАРЛСРУЭ': 7}",12.02.2019 20:00,https://www.myscore.com.ua/match/OvgaKpc1/#match-summary

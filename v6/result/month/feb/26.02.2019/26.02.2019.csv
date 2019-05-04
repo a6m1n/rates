@@ -1,0 +1,30 @@
+id,strategy,country,team,point,time,link,goal in first time,team that scored,Both scored,result in first time,result in all time
+0,2,АЗИЯ: Кубок АФК,Персия Джакара (Ина) - Биньзыонг (Вье),"{'ПЕРСИЯ ДЖАКАРА': 9, 'БИНЬЗЫОНГ': 4}",26.02.2019 10:30,https://www.myscore.com.ua/match/OlG5Z94A/#match-summary
+1,2,АЗИЯ: Кубок АФК,Янгон (Мья) - Тэмпайнс (Син),"{'ЯНГОН': 9, 'ТЭМПАЙНС': 7}",26.02.2019 11:00,https://www.myscore.com.ua/match/0GvgLbS2/#match-summary
+2,2,АЗИЯ: Кубок АФК,Церес (Фил) - Shan United (Мья),"{'ЦЕРЕС': 8, 'SHAN UNITED': 8}",26.02.2019 13:30,https://www.myscore.com.ua/match/82JyWFtL/#match-summary
+3,2,АЗИЯ: Кубок АФК,Ha Noi FC (Вье) - NagaWorld (Как),"{'HA NOI FC': 4, 'NAGAWORLD': 9}",26.02.2019 14:00,https://www.myscore.com.ua/match/EJrcKIs9/#match-summary
+4,2,АЗИЯ: Кубок АФК,Аль-Ахед (Лив) - Аль-Кадисия (Кув),"{'АЛЬ-АХЕД': 8, 'АЛЬ-КАДИСИЯ': 8}",26.02.2019 17:00,https://www.myscore.com.ua/match/hYsAjmNB/#match-summary
+5,2,АНГЛИЯ: Чемпионшип,КПР - Лидс,"{'КПР': 3, 'ЛИДС': 4}",26.02.2019 21:45,https://www.myscore.com.ua/match/voErVI2L/#match-summary
+6,2,АНГЛИЯ: Национальная лига Север,Чорли - Нюнеатон,"{'ЧОРЛИ': 6, 'НЮНЕАТОН': 4}",26.02.2019 21:45,https://www.myscore.com.ua/match/t2bJ9mIF/#match-summary
+7,2,АНГЛИЯ: Национальная лига Юг,Труро - Уокинг,"{'ТРУРО': 5, 'УОКИНГ': 6}",26.02.2019 21:45,https://www.myscore.com.ua/match/Qo2QPXxH/#match-summary
+8,2,АНГЛИЯ: NPL Premier Division,Уиттон - Бакстон,"{'УИТТОН': 3, 'БАКСТОН': 7}",26.02.2019 21:45,https://www.myscore.com.ua/match/44kpHZFc/#match-summary
+9,2,АНГЛИЯ: NPL Premier Division,Уоркингтон - Уоррингтон,"{'УОРКИНГТОН': 3, 'УОРРИНГТОН': 6}",26.02.2019 21:45,https://www.myscore.com.ua/match/IiuL9xjs/#match-summary
+10,2,АНГЛИЯ: NPL Premier Division,Фарсли - Норт Ферриби,"{'ФАРСЛИ': 8, 'НОРТ ФЕРРИБИ': 1}",26.02.2019 21:45,https://www.myscore.com.ua/match/WjV63Gob/#match-summary
+11,2,АНГЛИЯ: NPL Premier Division,Хэднесфорд - Хайд,"{'ХЭДНЕСФОРД': 5, 'ХАЙД': 5}",26.02.2019 21:45,https://www.myscore.com.ua/match/I7TE1fGA/#match-summary
+12,2,АНГЛИЯ: Southern League Central Division,Коалвилль - Хейлсоуэн,"{'КОАЛВИЛЛЬ': 4, 'ХЕЙЛСОУЭН': 1}",26.02.2019 21:45,https://www.myscore.com.ua/match/IFDmK2Kd/#match-summary
+13,2,АНГЛИЯ: Southern League South Division,Харроу - Уолтон Кэйжалс,"{'ХАРРОУ': 5, 'УОЛТОН КЭЙЖАЛС': 6}",26.02.2019 21:45,https://www.myscore.com.ua/match/U3CEWqjb/#match-summary
+14,2,АНГЛИЯ: Трофей ФА,Мэйдстоун - Стокпорт Каунти,"{'МЭЙДСТОУН': 5, 'СТОКПОРТ КАУНТИ': 10}",26.02.2019 21:45,https://www.myscore.com.ua/match/8EiJhEsE/#match-summary
+15,2,БОЛИВИЯ: Division Profesional - Апертура,Сан-Хосе - Стронгест,"{'САН-ХОСЕ': 9, 'СТРОНГЕСТ': 8}",26.02.2019 02:00,https://www.myscore.com.ua/match/M9TIoknm/#match-summary
+16,2,ГРЕЦИЯ: Кубок Греции - Плей-офф,АЕК - Атромитос,"{'АЕК': 8, 'АТРОМИТОС': 5}",26.02.2019 19:30,https://www.myscore.com.ua/match/QPW0HnWJ/#match-summary
+17,2,ЕГИПЕТ: Премьер-лига,Вади Дегла - Nogoom FC,"{'ВАДИ ДЕГЛА': 4, 'NOGOOM FC': 3}",26.02.2019 20:00,https://www.myscore.com.ua/match/EmW4XPns/#match-summary
+18,2,ПАРАГВАЙ: Первый дивизион - Апертура,Сан-Лоренсо - Серро Портеньо,"{'САН-ЛОРЕНСО': 5, 'СЕРРО ПОРТЕНЬО': 6}",26.02.2019 23:45,https://www.myscore.com.ua/match/GWff3ODJ/#match-summary
+19,2,СЕВЕРНАЯ ИРЛАНДИЯ: Премьер-лига,Баллимина - Клифтонвилл,"{'БАЛЛИМИНА': 7, 'КЛИФТОНВИЛЛ': 4}",26.02.2019 21:45,https://www.myscore.com.ua/match/jZMODjGm/#match-summary
+20,2,СЕВЕРНАЯ ИРЛАНДИЯ: Премьер-лига,Гленторан - Уорренпоинт,"{'ГЛЕНТОРАН': 5, 'УОРРЕНПОИНТ': 6}",26.02.2019 21:45,https://www.myscore.com.ua/match/S0Ptp0vg/#match-summary
+21,2,СЕВЕРНАЯ ИРЛАНДИЯ: Премьер-лига,Ньюри Сити - Линфилд,"{'НЬЮРИ СИТИ': 2, 'ЛИНФИЛД': 5}",26.02.2019 21:45,https://www.myscore.com.ua/match/MNOpqKga/#match-summary
+22,2,ФРАНЦИЯ: Кубок Франции,ПСЖ - Дижон,"{'ПСЖ': 7, 'ДИЖОН': 4}",26.02.2019 22:10,https://www.myscore.com.ua/match/xOCJpw21/#match-summary
+23,2,ШОТЛАНДИЯ: Чемпионшип,Данди Юнайтед - Инвернесс,"{'ДАНДИ ЮНАЙТЕД': 5, 'ИНВЕРНЕСС': 5}",26.02.2019 21:45,https://www.myscore.com.ua/match/r7Y2zy8N/#match-summary
+24,2,ШОТЛАНДИЯ: Первая лига,Дамбартон - Райт Роверс,"{'ДАМБАРТОН': 4, 'РАЙТ РОВЕРС': 5}",26.02.2019 21:45,https://www.myscore.com.ua/match/tSLflX6n/#match-summary
+25,2,ШОТЛАНДИЯ: Первая лига,Странрар - Стенхаузмур,"{'СТРАНРАР': 3, 'СТЕНХАУЗМУР': 3}",26.02.2019 21:45,https://www.myscore.com.ua/match/6B4ro1uP/#match-summary
+26,2,ШОТЛАНДИЯ: Вторая лига,Берик - Аннан,"{'БЕРИК': 1, 'АННАН': 5}",26.02.2019 21:45,https://www.myscore.com.ua/match/IRoJBzOg/#match-summary
+27,2,ШОТЛАНДИЯ: Вторая лига,Стерлинг - Клайд,"{'СТЕРЛИНГ': 6, 'КЛАЙД': 6}",26.02.2019 21:45,https://www.myscore.com.ua/match/61cZ7hNI/#match-summary
+28,2,ШОТЛАНДИЯ: Вторая лига,Элгин Сити - К. Парк,"{'ЭЛГИН СИТИ': 4, 'К. ПАРК': 4}",26.02.2019 21:45,https://www.myscore.com.ua/match/lQ2U8Y7C/#match-summary

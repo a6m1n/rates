@@ -1,0 +1,17 @@
+id,strategy,country,team,point,time,link,goal in first time,team that scored,Both scored,result in first time,result in all time
+0,2,ЕВРОПА: Лига чемпионов - Плей-офф,Аякс - Реал Мадрид,"{'АЯКС': 8, 'РЕАЛ МАДРИД': 8}",13.02.2019 22:00,https://www.myscore.com.ua/match/MVOnqzOQ/#match-summary
+1,2,ЕВРОПА: Лига чемпионов - Плей-офф,Тоттенхэм - Боруссия Д,"{'ТОТТЕНХЭМ': 4, 'БОРУССИЯ Д': 8}",13.02.2019 22:00,https://www.myscore.com.ua/match/Y9ndMCGD/#match-summary
+2,2,ФРАНЦИЯ: Первая лига,Сент-Этьен - Страсбур,"{'СЕНТ-ЭТЬЕН': 6, 'СТРАСБУР': 5}",13.02.2019 20:00,https://www.myscore.com.ua/match/UH5FUDU6/#match-summary
+3,2,ФРАНЦИЯ: Первая лига,Кан - Нант,"{'КАН': 5, 'НАНТ': 3}",13.02.2019 20:30,https://www.myscore.com.ua/match/thXRwI7K/#match-summary
+4,2,АНГЛИЯ: Чемпионшип,Лидс - Суонси,"{'ЛИДС': 3, 'СУОНСИ': 5}",13.02.2019 21:45,https://www.myscore.com.ua/match/AoSWWgja/#match-summary
+5,2,АНГЛИЯ: Чемпионшип,Шеффилд Юнайтед - Мидлсбро,"{'ШЕФФИЛД ЮНАЙТЕД': 5, 'МИДЛСБРО': 3}",13.02.2019 21:45,https://www.myscore.com.ua/match/OfocJL39/#match-summary
+6,2,АНГЛИЯ: Isthmian League Premier Division,Уингейт энд Финчли - Тонбридж,"{'УИНГЕЙТ ЭНД ФИНЧЛИ': 5, 'ТОНБРИДЖ': 6}",13.02.2019 21:45,https://www.myscore.com.ua/match/l4BiUDcM/#match-summary
+7,2,ИСПАНИЯ: Кубок Федерации,Реал Унион - Мирандес,"{'РЕАЛ УНИОН': 5, 'МИРАНДЕС': 5}",13.02.2019 20:30,https://www.myscore.com.ua/match/0zeYn37B/#match-summary
+8,2,ИТАЛИЯ: Серия C - Группа A,Пистойезе - Albissola,"{'ПИСТОЙЕЗЕ': 3, 'ALBISSOLA': 4}",13.02.2019 19:30,https://www.myscore.com.ua/match/zmQmtuPT/#match-summary
+9,2,ИТАЛИЯ: Серия C - Группа C,Паганезе - Монополи,"{'ПАГАНЕЗЕ': 5, 'МОНОПОЛИ': 5}",13.02.2019 21:30,https://www.myscore.com.ua/match/dE4SyyPq/#match-summary
+10,2,МИР: Клубные товарищеские матчи,Мариуполь (Укр) - Оболонь-Бровар (Укр),"{'МАРИУПОЛЬ': 3, 'ОБОЛОНЬ-БРОВАР': 3}",13.02.2019 10:00,https://www.myscore.com.ua/match/QoIATGY1/#match-summary
+11,2,МИР: Клубные товарищеские матчи,Оренбург (Рос) - Сиони (Гру),"{'ОРЕНБУРГ': 4, 'СИОНИ': 5}",13.02.2019 13:00,https://www.myscore.com.ua/match/CdN3I7hG/#match-summary
+12,2,МИР: Клубные товарищеские матчи,Локомотив Москва (Рос) - Конгсвингер (Нор),"{'ЛОКОМОТИВ МОСКВА': 3, 'КОНГСВИНГЕР': 6}",13.02.2019 17:00,https://www.myscore.com.ua/match/8AmstIbM/#match-summary
+13,2,МИР: Клубные товарищеские матчи,Арендаль (Нор) - Винбьярт (Нор),"{'АРЕНДАЛЬ': 7, 'ВИНБЬЯРТ': 8}",13.02.2019 19:00,https://www.myscore.com.ua/match/6gLf2k3B/#match-summary
+14,2,НИГЕРИЯ: НПФЛ,Katsina Utd - MFM FC,"{'KATSINA UTD': 4, 'MFM FC': 4}",13.02.2019 17:00,https://www.myscore.com.ua/match/bXJEnm6T/#match-summary
+15,2,ЮЖНАЯ АМЕРИКА: Кубок Либертадорес - Квалификация,Либертад (Пар) - Стронгест (Бол),"{'ЛИБЕРТАД': 5, 'СТРОНГЕСТ': 7}",13.02.2019 23:15,https://www.myscore.com.ua/match/fqiRkc81/#match-summary

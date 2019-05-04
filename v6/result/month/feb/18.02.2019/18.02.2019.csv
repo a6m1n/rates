@@ -1,0 +1,12 @@
+id,strategy,country,team,point,time,link,goal in first time,team that scored,Both scored,result in first time,result in all time
+0,2,ГЕРМАНИЯ: Бундеслига,Нюрнберг - Боруссия Д,"{'НЮРНБЕРГ': 4, 'БОРУССИЯ Д': 7}",18.02.2019 21:30,https://www.myscore.com.ua/match/fNa2KmU4/#match-summary
+1,2,АНГЛИЯ: Кубок ФА,Челси - Манчестер Юнайтед,"{'ЧЕЛСИ': 5, 'МАНЧЕСТЕР ЮНАЙТЕД': 7}",18.02.2019 21:30,https://www.myscore.com.ua/match/WMZqe8mI/#match-summary
+2,2,АНГЛИЯ: Премьер,Эвертон U23 - Блэкберн U23,"{'ЭВЕРТОН U23': 4, 'БЛЭКБЕРН U23': 6}",18.02.2019 21:00,https://www.myscore.com.ua/match/rZIirYLa/#match-summary
+3,2,ГЕРМАНИЯ: Северо-восточная региональная лига,Хемнитцер - Рот-Вайсс Эрфурт,"{'ХЕМНИТЦЕР': 3, 'РОТ-ВАЙСС ЭРФУРТ': 7}",18.02.2019 20:00,https://www.myscore.com.ua/match/IHx6ynni/#match-summary
+4,2,ДАНИЯ: Суперлига,Мидтьюлланн - Ольборг,"{'МИДТЬЮЛЛАНН': 9, 'ОЛЬБОРГ': 6}",18.02.2019 20:00,https://www.myscore.com.ua/match/GURvZ7fe/#match-summary
+5,2,ИСЛАНДИЯ: Кубок лиги,Тор - Магни,"{'ТОР': 5, 'МАГНИ': 6}",18.02.2019 21:00,https://www.myscore.com.ua/match/SESwyS01/#match-summary
+6,2,НИДЕРЛАНДЫ: Reserve League - Этап победителей,Йонг Виллем II - Йонг Фейеноорд,"{'ЙОНГ ВИЛЛЕМ II': 7, 'ЙОНГ ФЕЙЕНООРД': 7}",18.02.2019 15:00,https://www.myscore.com.ua/match/86mIdYB1/#match-summary
+7,2,НИДЕРЛАНДЫ: Reserve League - Этап победителей,Йонг Зволле - Jong Den Haag,"{'ЙОНГ ЗВОЛЛЕ': 6, 'JONG DEN HAAG': 7}",18.02.2019 19:30,https://www.myscore.com.ua/match/QsbDcEde/#match-summary
+8,2,НИДЕРЛАНДЫ: Reserve League - Этап проигравших,Йонг Де Графсхап - Jong FC Eindhoven,"{'ЙОНГ ДЕ ГРАФСХАП': 5, 'JONG FC EINDHOVEN': 5}",18.02.2019 19:30,https://www.myscore.com.ua/match/rNS6QOmd/#match-summary
+9,2,ПОЛЬША: Премьер-лига,Висла - Шлёнск Вроцлав,"{'ВИСЛА': 7, 'ШЛЁНСК ВРОЦЛАВ': 6}",18.02.2019 19:00,https://www.myscore.com.ua/match/veFnk5X2/#match-summary
+10,2,ПОРТУГАЛИЯ: Примейра-лига,Авеш - Бенфика,"{'АВЕШ': 4, 'БЕНФИКА': 9}",18.02.2019 22:15,https://www.myscore.com.ua/match/OUk9ijeP/#match-summary

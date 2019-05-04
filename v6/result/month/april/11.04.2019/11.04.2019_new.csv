@@ -1,0 +1,3 @@
+id,country,team,strategy 2,strategy 1,time,link,goal in first time,team that scored,Both scored,result in first time,result in all time
+1,НИКАРАГУА: Примера - Клаусура,Окоталь - Халапа,"{'ОКОТАЛЬ': 5, 'ХАЛАПА': 5}","{'ОКОТАЛЬ': 0.52, 'ХАЛАПА': 1.83}",11.04.2019 00:00,https://www.myscore.com.ua/match/MwgV4xhG/#match-summary,Yes,Окоталь,3,"{'Окоталь': 2, 'Халапа': 0}","{'Окоталь': 2, 'Халапа': 1}"
+2,США: USL Championship,Оранж Каунти СК - Tacoma Defiance,"{'ОРАНЖ КАУНТИ СК': 4, 'TACOMA DEFIANCE': 5}","{'ОРАНЖ КАУНТИ СК': 3.33, 'TACOMA DEFIANCE': 0.54}",11.04.2019 05:00,https://www.myscore.com.ua/match/bDgCH0g4/#match-summary,Yes,Оранж Каунти СК,4,"{'Оранж Каунти СК': 1, 'Tacoma Defiance': 0}","{'Оранж Каунти СК': 4, 'Tacoma Defiance': 0}"

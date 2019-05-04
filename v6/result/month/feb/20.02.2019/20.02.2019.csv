@@ -1,0 +1,13 @@
+id,strategy,country,team,point,time,link,goal in first time,team that scored,Both scored,result in first time,result in all time
+0,2,ЕВРОПА: Лига чемпионов - Плей-офф,Атлетико - Ювентус,"{'АТЛЕТИКО': 6, 'ЮВЕНТУС': 7}",20.02.2019 22:00,https://www.myscore.com.ua/match/CfbmOYo1/#match-summary
+1,2,ЕВРОПА: Лига Европы - Плей-офф,Севилья - Лацио,"{'СЕВИЛЬЯ': 1, 'ЛАЦИО': 5}",20.02.2019 19:00,https://www.myscore.com.ua/match/zDio29o3/#match-summary
+2,2,ФРАНЦИЯ: Первая лига,Бордо - Генгам,"{'БОРДО': 3, 'ГЕНГАМ': 3}",20.02.2019 20:00,https://www.myscore.com.ua/match/21YNvbhE/#match-summary
+3,2,АЗИЯ: Кубок АФК - Квалификация - плей-офф,Эрчим (Мнг) - Ryomyong (Скр),,20.02.2019 08:00,https://www.myscore.com.ua/match/bqGhTZQR/#match-summary
+4,2,АЗИЯ: Кубок АФК - Квалификация - плей-офф,Алай Ош (Кир) - Ахал (Тур),"{'АЛАЙ ОШ': 9, 'АХАЛ': 9}",20.02.2019 10:00,https://www.myscore.com.ua/match/IZ7pVedF/#match-summary
+5,2,АЗИЯ: Кубок АФК - Квалификация - плей-офф,Colombo (Шри) - Transport United (Бут),,20.02.2019 12:00,https://www.myscore.com.ua/match/GKQmUFBL/#match-summary
+6,2,АНГЛИЯ: Southern League South Division,Фарнборо - Met. Police,"{'ФАРНБОРО': 8, 'MET. POLICE': 6}",20.02.2019 21:45,https://www.myscore.com.ua/match/OjsEY5Lo/#match-summary
+7,2,БОЛГАРИЯ: Первая лига,Локомотив Пловдив - Септември София,"{'ЛОКОМОТИВ ПЛОВДИВ': 4, 'СЕПТЕМВРИ СОФИЯ': 3}",20.02.2019 14:30,https://www.myscore.com.ua/match/jHJbpo62/#match-summary
+8,2,БОЛГАРИЯ: Первая лига,Витоша Бистрица - Левски,"{'ВИТОША БИСТРИЦА': 2, 'ЛЕВСКИ': 3}",20.02.2019 17:00,https://www.myscore.com.ua/match/lCuGL1T1/#match-summary
+9,2,ИТАЛИЯ: Серия C - Группа C,Сиракуза - Витербезе,"{'СИРАКУЗА': 3, 'ВИТЕРБЕЗЕ': 4}",20.02.2019 15:30,https://www.myscore.com.ua/match/b1ihzfDb/#match-summary
+10,2,НИГЕРИЯ: НПФЛ,Эль Канеми - Хартленд,"{'ЭЛЬ КАНЕМИ': 3, 'ХАРТЛЕНД': 5}",20.02.2019 17:00,https://www.myscore.com.ua/match/AsUhBo1K/#match-summary
+11,2,НИГЕРИЯ: НПФЛ,MFM FC - Саншайн Старс,"{'MFM FC': 4, 'САНШАЙН СТАРС': 4}",20.02.2019 17:00,https://www.myscore.com.ua/match/Uwo4jy6B/#match-summary

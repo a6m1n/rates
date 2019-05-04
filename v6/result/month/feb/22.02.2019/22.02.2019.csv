@@ -1,0 +1,26 @@
+id,strategy,country,team,point,time,link,goal in first time,team that scored,Both scored,result in first time,result in all time
+0,2,ГЕРМАНИЯ: Бундеслига,Вердер - Штутгарт,"{'ВЕРДЕР': 6, 'ШТУТГАРТ': 2}",22.02.2019 21:30,https://www.myscore.com.ua/match/AghpCPyo/#match-summary
+1,2,ФРАНЦИЯ: Первая лига,Дижон - Сент-Этьен,"{'ДИЖОН': 4, 'СЕНТ-ЭТЬЕН': 6}",22.02.2019 20:00,https://www.myscore.com.ua/match/jPyqc0Pu/#match-summary
+2,2,АВСТРАЛИЯ: Лига А,Централ Кост Маринерс - Брисбен Роар,"{'ЦЕНТРАЛ КОСТ МАРИНЕРС': 7, 'БРИСБЕН РОАР': 4}",22.02.2019 10:50,https://www.myscore.com.ua/match/AXr7s6r4/#match-summary
+3,2,АВСТРАЛИЯ: НПЛ Виктория,Мельбурн Найтс - Альтона Мэджик,"{'МЕЛЬБУРН НАЙТС': 7, 'АЛЬТОНА МЭДЖИК': 6}",22.02.2019 10:45,https://www.myscore.com.ua/match/4ffypC9r/#match-summary
+4,2,АВСТРАЛИЯ: НПЛ Виктория,Паско Вейл - Бентли Гринс,"{'ПАСКО ВЕЙЛ': 5, 'БЕНТЛИ ГРИНС': 6}",22.02.2019 10:45,https://www.myscore.com.ua/match/bHguqWOl/#match-summary
+5,2,АВСТРАЛИЯ: НПЛ Виктория,Хьюм Сити - Окли Кэннонс,"{'ХЬЮМ СИТИ': 6, 'ОКЛИ КЭННОНС': 6}",22.02.2019 10:45,https://www.myscore.com.ua/match/2o89lh1R/#match-summary
+6,2,АВСТРАЛИЯ: НПЛ Виктория,Саут Мельбурн - Dandenong City,,22.02.2019 11:30,https://www.myscore.com.ua/match/CKcqrjve/#match-summary
+7,2,АВСТРИЯ: Бундеслига,ЛАСК - Аустрия,"{'ЛАСК': 10, 'АУСТРИЯ': 7}",22.02.2019 20:30,https://www.myscore.com.ua/match/6TZHyIGs/#match-summary
+8,2,АНГЛИЯ: Лига профессионального развития,Бристоль Сити U23 - Ковентри Сити U23,"{'БРИСТОЛЬ СИТИ U23': 3, 'КОВЕНТРИ СИТИ U23': 4}",22.02.2019 19:00,https://www.myscore.com.ua/match/Ys2LR3os/#match-summary
+9,2,АНГЛИЯ: Лига профессионального развития,Ноттингем Форест U23 - Лидс U23,"{'НОТТИНГЕМ ФОРЕСТ U23': 6, 'ЛИДС U23': 7}",22.02.2019 21:00,https://www.myscore.com.ua/match/jqzXq37P/#match-summary
+10,2,АНГЛИЯ: Кубок Премьер,Фулхэм U23 - Рединг U23,"{'ФУЛХЭМ U23': 2, 'РЕДИНГ U23': 5}",22.02.2019 16:00,https://www.myscore.com.ua/match/IXSjLg3n/#match-summary
+11,2,АНГЛИЯ: Кубок Премьер,Халл Сити U23 - Суонси U23,"{'ХАЛЛ СИТИ U23': 5, 'СУОНСИ U23': 5}",22.02.2019 21:00,https://www.myscore.com.ua/match/lGNESdS9/#match-summary
+12,2,БЕЛЬГИЯ: Высшая лига,Гент - Стандард,"{'ГЕНТ': 6, 'СТАНДАРД': 6}",22.02.2019 21:30,https://www.myscore.com.ua/match/p8Y2O7bh/#match-summary
+13,2,ИНДИЯ: Первый дивизион,Лайонг - Gokulam,"{'ЛАЙОНГ': 3, 'GOKULAM': 4}",22.02.2019 13:30,https://www.myscore.com.ua/match/EHXcm0RJ/#match-summary
+14,2,ИНДОНЕЗИЯ: Piala Indonesia,Бали Юнайтед - Персела Ламонган,"{'БАЛИ ЮНАЙТЕД': 4, 'ПЕРСЕЛА ЛАМОНГАН': 6}",22.02.2019 15:00,https://www.myscore.com.ua/match/vi7fRSH4/#match-summary
+15,2,ИРЛАНДИЯ: Премьер-Дивизион,Финн Хэрпс - Дандолк,"{'ФИНН ХЭРПС': 6, 'ДАНДОЛК': 6}",22.02.2019 22:00,https://www.myscore.com.ua/match/nyT39qNA/#match-summary
+16,2,ИСЛАНДИЯ: Кубок лиги,Фйолнир - Валюр,"{'ФЙОЛНИР': 7, 'ВАЛЮР': 4}",22.02.2019 21:00,https://www.myscore.com.ua/match/ncO6egro/#match-summary
+17,2,НИДЕРЛАНДЫ: Первый дивизион,Валвейк - ФК Волендам,"{'ВАЛВЕЙК': 5, 'ФК ВОЛЕНДАМ': 7}",22.02.2019 21:00,https://www.myscore.com.ua/match/UuQT5Qzc/#match-summary
+18,2,НИДЕРЛАНДЫ: Первый дивизион,Камбур - Дордрехт,"{'КАМБУР': 3, 'ДОРДРЕХТ': 4}",22.02.2019 21:00,https://www.myscore.com.ua/match/Gxxnssbd/#match-summary
+19,2,НИДЕРЛАНДЫ: Первый дивизион,Телстар - Йонг Аякс,"{'ТЕЛСТАР': 5, 'ЙОНГ АЯКС': 8}",22.02.2019 21:00,https://www.myscore.com.ua/match/4bIt3OKF/#match-summary
+20,2,САУДОВСКАЯ АРАВИЯ: Премьер-лига,Аль-Вехда - Охoд,"{'АЛЬ-ВЕХДА': 4, 'ОХOД': 3}",22.02.2019 19:25,https://www.myscore.com.ua/match/hdIVelCt/#match-summary
+21,2,СЕВЕРНАЯ ИРЛАНДИЯ: Премьер-лига,Крусейдерс - Гленавон,"{'КРУСЕЙДЕРС': 5, 'ГЛЕНАВОН': 2}",22.02.2019 21:45,https://www.myscore.com.ua/match/QB5VWVMP/#match-summary
+22,2,ТАИЛАНД: Премьер-лига,Ратчабури - Trat FC,,22.02.2019 15:00,https://www.myscore.com.ua/match/pQ53dIO5/#match-summary
+23,2,ТУРЦИЯ: Суперлига,Ризеспор - Йени Малатьяспор,"{'РИЗЕСПОР': 4, 'ЙЕНИ МАЛАТЬЯСПОР': 5}",22.02.2019 19:30,https://www.myscore.com.ua/match/KW5lHU8r/#match-summary
+24,2,ШВЕЦИЯ: Кубок Швеции,Ассириска ИК - Норрчепинг,"{'АССИРИСКА ИК': 5, 'НОРРЧЕПИНГ': 6}",22.02.2019 20:00,https://www.myscore.com.ua/match/ARiGtLIB/#match-summary

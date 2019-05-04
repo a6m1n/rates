@@ -1,0 +1,2 @@
+id,strategy,country,team,point,time,link,goal in first time,team that scored,Both scored,result in first time,result in all time
+0,2,ЕВРОПА: Лига чемпионов - Плей-офф,Аякс - Реал Мадрид,"{'АЯКС': 8, 'РЕАЛ МАДРИД': 8}",13.02.2019 22:00,https://www.myscore.com.ua/match/MVOnqzOQ/#match-summary,No,0,3,"{'Аякс': 0, 'Реал Мадрид': 0}","{'Аякс': 1, 'Реал Мадрид': 2}"
